@@ -1,0 +1,31 @@
+1. Sistema Computacional:
+	Definición: Es una colección de entidades (hardware, software y liveware) 
+		    diseñadas para recibir, procesar, administrar y presentar 
+		    información en un formato significativo.
+
+COMPONENTES DEL SISTEMA COMPUTACIONAL
+     Hardware de la computadora: son partes físicas / partes intangibles de una computadora. 
+     Por ejemplo, dispositivos de entrada, dispositivos de salida, unidad central de 
+     procesamiento y dispositivos de almacenamiento.
+     Software de computadora, también conocido como programas o aplicaciones. 
+     Se clasifican en dos clases, a saber: software de sistema y software de aplicación
+     Liveware: es el usuario de la computadora. También kwon como orgware o el humanware. 
+     El usuario ordena al sistema informático que ejecute las instrucciones.
+
+2. Creador de Google
+	Larry Page y Serguéi Brin fundaron Google en 1997, comenzando la empresa 
+	con el buscador que hoy es el más utilizado en el mundo.
+
+3. Creador de Whatsapp
+	Jan Koum, Brian Acton: el 19 de febrero de 2014.
+
+4. Siglas del FOR
+	Error 404 Not Found
+
+5. Mascota de Java
+	Duke es la Mascota Oficial de Java. Duke fue creado, en le año de 1992.
+
+6. Internet de las cosas
+	Internet de las cosas es una red de objetos físicos–vehículos, máquinas, 
+	electrodomésticos y más– que utiliza sensores y APIs para conectarse e 
+	intercambiar datos por internet.
